@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartBloodDonationSystem.API", "SmartBloodDonationSystem.API\SmartBloodDonationSystem.API.csproj", "{D2A94132-9843-4287-9D56-A92DC63E3008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartBloodDonationSystem.Domain", "SmartBloodDonationSystem.Domain\SmartBloodDonationSystem.Domain.csproj", "{2252B3F8-34A0-4022-9EFE-148919326FF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartBloodDonationSystem.Infrastructure", "SmartBloodDonationSystem.Infrastructure\SmartBloodDonationSystem.Infrastructure.csproj", "{21300CEE-88A5-43DB-9066-B45726FA3592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartBloodDonationSystem.Application", "SmartBloodDonationSystem.Application\SmartBloodDonationSystem.Application.csproj", "{6E87DCFF-8319-45B7-92DF-FAC5FA5E9059}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2A94132-9843-4287-9D56-A92DC63E3008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A94132-9843-4287-9D56-A92DC63E3008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A94132-9843-4287-9D56-A92DC63E3008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A94132-9843-4287-9D56-A92DC63E3008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2252B3F8-34A0-4022-9EFE-148919326FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2252B3F8-34A0-4022-9EFE-148919326FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2252B3F8-34A0-4022-9EFE-148919326FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2252B3F8-34A0-4022-9EFE-148919326FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21300CEE-88A5-43DB-9066-B45726FA3592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21300CEE-88A5-43DB-9066-B45726FA3592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21300CEE-88A5-43DB-9066-B45726FA3592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21300CEE-88A5-43DB-9066-B45726FA3592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E87DCFF-8319-45B7-92DF-FAC5FA5E9059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E87DCFF-8319-45B7-92DF-FAC5FA5E9059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E87DCFF-8319-45B7-92DF-FAC5FA5E9059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E87DCFF-8319-45B7-92DF-FAC5FA5E9059}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
