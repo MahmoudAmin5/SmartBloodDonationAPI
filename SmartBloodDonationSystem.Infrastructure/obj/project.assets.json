@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "SmartBloodDonationSystem.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "SmartBloodDonationSystem.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SmartBloodDonationSystem.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SmartBloodDonationSystem.Application.dll": {}
+        }
+      },
+      "SmartBloodDonationSystem.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SmartBloodDonationSystem.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SmartBloodDonationSystem.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SmartBloodDonationSystem.Application/1.0.0": {
+      "type": "project",
+      "path": "../SmartBloodDonationSystem.Application/SmartBloodDonationSystem.Application.csproj",
+      "msbuildProject": "../SmartBloodDonationSystem.Application/SmartBloodDonationSystem.Application.csproj"
+    },
+    "SmartBloodDonationSystem.Domain/1.0.0": {
+      "type": "project",
+      "path": "../SmartBloodDonationSystem.Domain/SmartBloodDonationSystem.Domain.csproj",
+      "msbuildProject": "../SmartBloodDonationSystem.Domain/SmartBloodDonationSystem.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "SmartBloodDonationSystem.Application >= 1.0.0",
+      "SmartBloodDonationSystem.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\pc\\.nuget\\packages\\": {},
@@ -38,7 +76,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\SmartBloodDonationSystem.Application\\SmartBloodDonationSystem.Application.csproj": {
+              "projectPath": "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\SmartBloodDonationSystem.Application\\SmartBloodDonationSystem.Application.csproj"
+            },
+            "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\SmartBloodDonationSystem.Domain\\SmartBloodDonationSystem.Domain.csproj": {
+              "projectPath": "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\SmartBloodDonationSystem.Domain\\SmartBloodDonationSystem.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
