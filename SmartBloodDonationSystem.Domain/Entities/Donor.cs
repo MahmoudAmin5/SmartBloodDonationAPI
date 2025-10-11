@@ -12,13 +12,14 @@ namespace SmartBloodDonationSystem.Domain.Entities
     public class Donor
     {
         public int Id { get; set; }
-        public int UserId { get; set; }
+        public string Name { get; set; }
+        public int? UserId { get; set; }
         public BloodType BloodType { get; set; }
         public string City { get; set; }
         public DateTime LastDonationDate { get; set; }
 
 
-        public AppUser User { get; set; }
+        public AppUser? User { get; set; }
         public ICollection<Donation> Donations { get; set; } = new List<Donation>(); 
 
     }
