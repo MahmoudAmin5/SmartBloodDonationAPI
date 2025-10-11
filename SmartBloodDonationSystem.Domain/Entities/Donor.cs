@@ -19,7 +19,7 @@ namespace SmartBloodDonationSystem.Domain.Entities
 
 
         public AppUser User { get; set; }
-        public ICollection<Donation> Donations { get; set; } = new List<Donations>(); 
+        public ICollection<Donation> Donations { get; set; } = new List<Donation>(); 
 
     }
 }
