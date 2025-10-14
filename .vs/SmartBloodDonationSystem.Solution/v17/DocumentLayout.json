@@ -41,6 +41,10 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Urgency.cs",
@@ -50,8 +54,7 @@
               "RelativeToolTip": "SmartBloodDonationSystem.Domain\\Enums\\Urgency.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T12:37:03.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T12:37:03.148Z"
             },
             {
               "$type": "Document",
@@ -63,8 +66,7 @@
               "RelativeToolTip": "SmartBloodDonationSystem.Domain\\Enums\\RequestStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T12:36:40.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T12:36:40.338Z"
             },
             {
               "$type": "Document",
@@ -76,8 +78,7 @@
               "RelativeToolTip": "SmartBloodDonationSystem.Domain\\Enums\\BloodType.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T12:35:20.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T12:35:20.546Z"
             },
             {
               "$type": "Document",
@@ -89,8 +90,7 @@
               "RelativeToolTip": "SmartBloodDonationSystem.Domain\\Enums\\BloodStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T12:34:01.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T12:34:01.573Z"
             },
             {
               "$type": "Document",
@@ -102,12 +102,7 @@
               "RelativeToolTip": "SmartBloodDonationSystem.Domain\\Entities\\Donor.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwBAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T12:24:09.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+              "WhenOpened": "2025-10-14T12:24:09.226Z"
             },
             {
               "$type": "Document",
@@ -117,7 +112,7 @@
               "RelativeDocumentMoniker": "SmartBloodDonationSystem.Infrastructure\\Data\\Config\\DonorConfig.cs",
               "ToolTip": "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\SmartBloodDonationSystem.Infrastructure\\Data\\Config\\DonorConfig.cs",
               "RelativeToolTip": "SmartBloodDonationSystem.Infrastructure\\Data\\Config\\DonorConfig.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T12:23:35.526Z",
               "EditorCaption": ""
@@ -132,8 +127,7 @@
               "RelativeToolTip": "SmartBloodDonationSystem.Infrastructure\\Data\\Config\\BloodRequestConfig.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T12:06:29.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T12:06:29.977Z"
             }
           ]
         }
