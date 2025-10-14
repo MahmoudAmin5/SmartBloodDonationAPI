@@ -13,6 +13,7 @@ namespace SmartBloodDonationSystem.Domain.Entities
     {
         public int Id { get; set; }
         public string Name { get; set; }
+        public string Phone { get; set; }
         public int? UserId { get; set; }
         public BloodType BloodType { get; set; }
         public string City { get; set; }
