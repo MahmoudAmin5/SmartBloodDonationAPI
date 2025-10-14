@@ -20,6 +20,6 @@ namespace SmartBloodDonationSystem.Domain.Entities
         public string Phone { get; set; }
 
         public AppUser User { get; set; }
-        public ICollection<Donation> Donations { get; set; } = new List<Donation>();
+        public ICollection<BloodRequest> BloodRequests { get; set; } = new List<BloodRequest>();
     }
 }

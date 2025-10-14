@@ -19,7 +19,7 @@ namespace SmartBloodDonationSystem.Domain.Entities
         public DateTime? ExpireDate { get; set; }
         public BloodType BloodType { get; set; }
         public int Volume { get; set; }
-        public BloodStatus BloodStatus { get; set; } = "Available";
+        public BloodStatus BloodStatus { get; set; } = BloodStatus.Available;
         public DateTime? CreatedAt { get; set; } = DateTime.UtcNow;
         public DateTime UpdatedAt { get;set; }
 

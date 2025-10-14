@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2252B3F8-34A0-4022-9EFE-148919326FF3}|SmartBloodDonationSystem.Domain\\SmartBloodDonationSystem.Domain.csproj|d:\\smart blood donation system\\smartblooddonationsystem.solution\\smartblooddonationsystem.domain\\entities\\bloodunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2252B3F8-34A0-4022-9EFE-148919326FF3}|SmartBloodDonationSystem.Domain\\SmartBloodDonationSystem.Domain.csproj|solutionrelative:smartblooddonationsystem.domain\\entities\\bloodunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2252B3F8-34A0-4022-9EFE-148919326FF3}|SmartBloodDonationSystem.Domain\\SmartBloodDonationSystem.Domain.csproj|d:\\smart blood donation system\\smartblooddonationsystem.solution\\smartblooddonationsystem.domain\\entities\\bloodcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2252B3F8-34A0-4022-9EFE-148919326FF3}|SmartBloodDonationSystem.Domain\\SmartBloodDonationSystem.Domain.csproj|solutionrelative:smartblooddonationsystem.domain\\entities\\bloodcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2252B3F8-34A0-4022-9EFE-148919326FF3}|SmartBloodDonationSystem.Domain\\SmartBloodDonationSystem.Domain.csproj|d:\\smart blood donation system\\smartblooddonationsystem.solution\\smartblooddonationsystem.domain\\entities\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2252B3F8-34A0-4022-9EFE-148919326FF3}|SmartBloodDonationSystem.Domain\\SmartBloodDonationSystem.Domain.csproj|solutionrelative:smartblooddonationsystem.domain\\entities\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,32 +39,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BloodUnit.cs",
+              "DocumentMoniker": "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\SmartBloodDonationSystem.Domain\\Entities\\BloodUnit.cs",
+              "RelativeDocumentMoniker": "SmartBloodDonationSystem.Domain\\Entities\\BloodUnit.cs",
+              "ToolTip": "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\SmartBloodDonationSystem.Domain\\Entities\\BloodUnit.cs",
+              "RelativeToolTip": "SmartBloodDonationSystem.Domain\\Entities\\BloodUnit.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA4wBsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T02:33:54.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BloodCenter.cs",
+              "DocumentMoniker": "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\SmartBloodDonationSystem.Domain\\Entities\\BloodCenter.cs",
+              "RelativeDocumentMoniker": "SmartBloodDonationSystem.Domain\\Entities\\BloodCenter.cs",
+              "ToolTip": "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\SmartBloodDonationSystem.Domain\\Entities\\BloodCenter.cs",
+              "RelativeToolTip": "SmartBloodDonationSystem.Domain\\Entities\\BloodCenter.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T02:26:28.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Donation.cs",
               "DocumentMoniker": "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\SmartBloodDonationSystem.Domain\\Entities\\Donation.cs",
               "RelativeDocumentMoniker": "SmartBloodDonationSystem.Domain\\Entities\\Donation.cs",
               "ToolTip": "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\SmartBloodDonationSystem.Domain\\Entities\\Donation.cs",
               "RelativeToolTip": "SmartBloodDonationSystem.Domain\\Entities\\Donation.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA0wBUAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wBUAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T05:18:21.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Donor.cs",
               "DocumentMoniker": "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\SmartBloodDonationSystem.Domain\\Entities\\Donor.cs",
               "RelativeDocumentMoniker": "SmartBloodDonationSystem.Domain\\Entities\\Donor.cs",
               "ToolTip": "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\SmartBloodDonationSystem.Domain\\Entities\\Donor.cs",
               "RelativeToolTip": "SmartBloodDonationSystem.Domain\\Entities\\Donor.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T04:46:06.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Hospital.cs",
               "DocumentMoniker": "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\SmartBloodDonationSystem.Domain\\Entities\\Hospital.cs",
               "RelativeDocumentMoniker": "SmartBloodDonationSystem.Domain\\Entities\\Hospital.cs",
@@ -64,8 +98,7 @@
               "RelativeToolTip": "SmartBloodDonationSystem.Domain\\Entities\\Hospital.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAwwBUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T04:48:00.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T04:48:00.65Z"
             }
           ]
         }
