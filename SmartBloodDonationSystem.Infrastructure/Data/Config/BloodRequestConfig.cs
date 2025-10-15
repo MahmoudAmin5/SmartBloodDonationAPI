@@ -14,10 +14,13 @@ namespace SmartBloodDonationSystem.Infrastructure.Data.Config
         public void Configure(EntityTypeBuilder<BloodRequest> builder)
         {
            builder.HasKey(x => x.Id);
+
             builder.HasOne(h => h.Hospital)
                 .WithMany(h => h.BloodRequests)
                 .HasForeignKey(k => k.HospitalId);
+
             builder.Property(x => x.UnitsAmount).IsRequired();
+
             builder.Property(x=>x.BloodType).IsRequired();
 
         }

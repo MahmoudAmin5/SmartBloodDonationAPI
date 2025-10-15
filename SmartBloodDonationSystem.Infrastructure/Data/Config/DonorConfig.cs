@@ -20,6 +20,7 @@ namespace SmartBloodDonationSystem.Infrastructure.Data.Config
             builder.HasMany(d => d.Donations)
                 .WithOne(d => d.Donor)
                 .HasForeignKey(k => k.DonorId);
+
             builder.Property(x => x.BloodType).IsRequired();
             builder.Property(x => x.Name).IsRequired();
             builder.Property(x => x.City).IsRequired();
