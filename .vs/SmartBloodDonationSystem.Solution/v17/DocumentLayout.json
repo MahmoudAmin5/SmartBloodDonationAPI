@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21300CEE-88A5-43DB-9066-B45726FA3592}|SmartBloodDonationSystem.Infrastructure\\SmartBloodDonationSystem.Infrastructure.csproj|d:\\smart blood donation system\\smartblooddonationsystem.solution\\smartblooddonationsystem.infrastructure\\data\\config\\bloodcenterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21300CEE-88A5-43DB-9066-B45726FA3592}|SmartBloodDonationSystem.Infrastructure\\SmartBloodDonationSystem.Infrastructure.csproj|solutionrelative:smartblooddonationsystem.infrastructure\\data\\config\\bloodcenterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21300CEE-88A5-43DB-9066-B45726FA3592}|SmartBloodDonationSystem.Infrastructure\\SmartBloodDonationSystem.Infrastructure.csproj|d:\\smart blood donation system\\smartblooddonationsystem.solution\\smartblooddonationsystem.infrastructure\\data\\config\\donationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21300CEE-88A5-43DB-9066-B45726FA3592}|SmartBloodDonationSystem.Infrastructure\\SmartBloodDonationSystem.Infrastructure.csproj|solutionrelative:smartblooddonationsystem.infrastructure\\data\\config\\donationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21300CEE-88A5-43DB-9066-B45726FA3592}|SmartBloodDonationSystem.Infrastructure\\SmartBloodDonationSystem.Infrastructure.csproj|d:\\smart blood donation system\\smartblooddonationsystem.solution\\smartblooddonationsystem.infrastructure\\data\\config\\bloodrequestconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21300CEE-88A5-43DB-9066-B45726FA3592}|SmartBloodDonationSystem.Infrastructure\\SmartBloodDonationSystem.Infrastructure.csproj|solutionrelative:smartblooddonationsystem.infrastructure\\data\\config\\bloodrequestconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2252B3F8-34A0-4022-9EFE-148919326FF3}|SmartBloodDonationSystem.Domain\\SmartBloodDonationSystem.Domain.csproj|d:\\smart blood donation system\\smartblooddonationsystem.solution\\smartblooddonationsystem.domain\\entities\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2252B3F8-34A0-4022-9EFE-148919326FF3}|SmartBloodDonationSystem.Domain\\SmartBloodDonationSystem.Domain.csproj|solutionrelative:smartblooddonationsystem.domain\\entities\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21300CEE-88A5-43DB-9066-B45726FA3592}|SmartBloodDonationSystem.Infrastructure\\SmartBloodDonationSystem.Infrastructure.csproj|d:\\smart blood donation system\\smartblooddonationsystem.solution\\smartblooddonationsystem.infrastructure\\data\\config\\bloodcenterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21300CEE-88A5-43DB-9066-B45726FA3592}|SmartBloodDonationSystem.Infrastructure\\SmartBloodDonationSystem.Infrastructure.csproj|solutionrelative:smartblooddonationsystem.infrastructure\\data\\config\\bloodcenterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BloodRequestConfig.cs",
-              "DocumentMoniker": "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\SmartBloodDonationSystem.Infrastructure\\Data\\Config\\BloodRequestConfig.cs",
-              "RelativeDocumentMoniker": "SmartBloodDonationSystem.Infrastructure\\Data\\Config\\BloodRequestConfig.cs",
-              "ToolTip": "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\SmartBloodDonationSystem.Infrastructure\\Data\\Config\\BloodRequestConfig.cs",
-              "RelativeToolTip": "SmartBloodDonationSystem.Infrastructure\\Data\\Config\\BloodRequestConfig.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Title": "Donation.cs",
+              "DocumentMoniker": "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\SmartBloodDonationSystem.Domain\\Entities\\Donation.cs",
+              "RelativeDocumentMoniker": "SmartBloodDonationSystem.Domain\\Entities\\Donation.cs",
+              "ToolTip": "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\SmartBloodDonationSystem.Domain\\Entities\\Donation.cs",
+              "RelativeToolTip": "SmartBloodDonationSystem.Domain\\Entities\\Donation.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T17:51:19.065Z",
+              "WhenOpened": "2025-10-15T16:22:39.801Z",
               "EditorCaption": ""
             },
             {
@@ -40,12 +44,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DonationConfig.cs",
+              "DocumentMoniker": "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\SmartBloodDonationSystem.Infrastructure\\Data\\Config\\DonationConfig.cs",
+              "RelativeDocumentMoniker": "SmartBloodDonationSystem.Infrastructure\\Data\\Config\\DonationConfig.cs",
+              "ToolTip": "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\SmartBloodDonationSystem.Infrastructure\\Data\\Config\\DonationConfig.cs",
+              "RelativeToolTip": "SmartBloodDonationSystem.Infrastructure\\Data\\Config\\DonationConfig.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:21:55.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BloodCenterConfig.cs",
               "DocumentMoniker": "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\SmartBloodDonationSystem.Infrastructure\\Data\\Config\\BloodCenterConfig.cs",
               "RelativeDocumentMoniker": "SmartBloodDonationSystem.Infrastructure\\Data\\Config\\BloodCenterConfig.cs",
               "ToolTip": "D:\\Smart Blood Donation System\\SmartBloodDonationSystem.Solution\\SmartBloodDonationSystem.Infrastructure\\Data\\Config\\BloodCenterConfig.cs",
               "RelativeToolTip": "SmartBloodDonationSystem.Infrastructure\\Data\\Config\\BloodCenterConfig.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBYAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T17:46:43.41Z",
               "EditorCaption": ""
